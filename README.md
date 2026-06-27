@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Salman Arefin 👋</h1>
 
 <h3 align="center">
-  Software Engineer | Full-Stack Web Developer | Backend Developer
+  Software Engineer | Full-Stack Web Developer
 </h3>
 
 <p align="center">
