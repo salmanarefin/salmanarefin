@@ -32,7 +32,7 @@ I am **Salman Arefin**, a Bangladeshi **Software Engineer** and **Full-Stack Web
 
 I completed my **BSc in Computer Science and Engineering** from **American International University-Bangladesh (AIUB)**, majoring in **Software Engineering**. I focus on building clean, scalable, database-driven, and user-focused software solutions.
 
-I work with **React.js, Next.js, NestJS, ASP.NET, Laravel, PHP, MySQL, PostgreSQL, and Oracle** to develop practical software systems and real-world web applications.
+I work with **React.js, Next.js, NestJS, ASP.NET Core, Laravel, PHP, MySQL, PostgreSQL, SQL Server, and Oracle** to develop practical software systems and real-world web applications.
 
 ---
 
@@ -73,7 +73,7 @@ I work with **React.js, Next.js, NestJS, ASP.NET, Laravel, PHP, MySQL, PostgreSQ
 
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
@@ -83,6 +83,7 @@ I work with **React.js, Next.js, NestJS, ASP.NET, Laravel, PHP, MySQL, PostgreSQ
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
@@ -101,20 +102,12 @@ I work with **React.js, Next.js, NestJS, ASP.NET, Laravel, PHP, MySQL, PostgreSQ
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 <table>
   <tr>
     <td width="50%">
       <h3>🏢 Advanced ERP HRMS Management System</h3>
-      <p>
-        A professional role-based ERP and Human Resource Management System for managing employees, departments, designations, attendance, leave applications, payroll, reports, audit logs, user roles, and dashboard analytics.
-      </p>
-      <p>
-        <b>Key Features:</b> Role-based access control, employee management, attendance tracking, leave approval workflow, payroll processing, report filtering, printable reports, audit logs, dashboard pie chart, attendance trend line chart, validation, and professional UI.
-      </p>
-      <p><b>Architecture:</b> Folder-based 3-tier architecture with MVC Controllers, Services, ViewModels, Entity Framework Core, and SQL Server.</p>
-      <p><b>Tech Stack:</b> ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, ASP.NET Core Identity, Bootstrap, Chart.js</p>
+      <p>A role-based ERP HRMS system for managing employees, departments, attendance, leave, payroll, reports, audit logs, and dashboard analytics.</p>
+      <p><b>Tech Stack:</b> ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Identity, Bootstrap, Chart.js</p>
       <a href="https://github.com/salmanarefin/Advanced_ERP_Management_System">View Repository</a>
     </td>
     <td width="50%">
@@ -169,6 +162,7 @@ I work with **React.js, Next.js, NestJS, ASP.NET, Laravel, PHP, MySQL, PostgreSQ
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Analytics
