@@ -101,53 +101,74 @@ I work with **React.js, Next.js, NestJS, ASP.NET, Laravel, PHP, MySQL, PostgreSQ
 
 ## 📌 Featured Projects
 
+## 📌 Featured Projects
+
 <table>
   <tr>
+    <td width="50%">
+      <h3>🏢 Advanced ERP HRMS Management System</h3>
+      <p>
+        A professional role-based ERP and Human Resource Management System for managing employees, departments, designations, attendance, leave applications, payroll, reports, audit logs, user roles, and dashboard analytics.
+      </p>
+      <p>
+        <b>Key Features:</b> Role-based access control, employee management, attendance tracking, leave approval workflow, payroll processing, report filtering, printable reports, audit logs, dashboard pie chart, attendance trend line chart, validation, and professional UI.
+      </p>
+      <p><b>Architecture:</b> Folder-based 3-tier architecture with MVC Controllers, Services, ViewModels, Entity Framework Core, and SQL Server.</p>
+      <p><b>Tech Stack:</b> ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, ASP.NET Core Identity, Bootstrap, Chart.js</p>
+      <a href="https://github.com/salmanarefin/Advanced_ERP_Management_System">View Repository</a>
+    </td>
     <td width="50%">
       <h3>🏥 E-Pharmacy Shop Management System</h3>
       <p>A full-stack web application for managing pharmacy inventory, medicines, sales, customers, orders, and pharmacy operations.</p>
       <p><b>Tech Stack:</b> NestJS, Next.js, React.js, PostgreSQL</p>
       <a href="https://github.com/salmanarefin/E-Pharmecy_management_system">View Repository</a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>🏨 Hostel Management System</h3>
       <p>A web-based hostel management system for managing seats, customers, bookings, rent payments, leave/exit requests, offers, authentication, and admin approval workflows.</p>
       <p><b>Tech Stack:</b> Laravel, PHP, MySQL, Blade, Tailwind CSS, JavaScript</p>
       <a href="https://github.com/salmanarefin/hostel_management_system">View Repository</a>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%">
       <h3>📚 Library Management System</h3>
       <p>A web-based system for managing books, users, borrowing records, returns, and library administrative workflows.</p>
       <p><b>Tech Stack:</b> ASP.NET, C#, SQL</p>
       <a href="https://github.com/salmanarefin/Library_management_system-Asp.net-">View Repository</a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>🛒 Supershop Management System</h3>
       <p>A dynamic web-based application for managing products, sales, customer data, and daily shop operations.</p>
       <p><b>Tech Stack:</b> HTML, CSS, JavaScript, PHP, MySQL</p>
       <a href="https://github.com/salmanarefin/Supershop_management">View Repository</a>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%">
       <h3>🌾 Agricultural Shop Management System</h3>
       <p>A management system for handling agricultural products, inventory, sales, customer records, stock tracking, and transactions.</p>
       <p><b>Tech Stack:</b> C#, Database</p>
       <a href="https://github.com/salmanarefin/AGRICULTURE-MANAGEMENT-C-SHARP">View Repository</a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>🤟 Real-Time Sign Language Translation</h3>
       <p>A real-time sign language translation project that converts gestures into text using computer vision concepts with requirement analysis, system design, UI/UX planning, risk analysis, and testing.</p>
       <p><b>Tech Stack:</b> SRE, SQT, Computer Vision</p>
       <a href="https://github.com/salmanarefin/RealTimeLanguageTranslationForSignLanguage">View Repository</a>
     </td>
+    <td width="50%">
+      <h3>✈️ Airplane Ticket Management System</h3>
+      <p>A Java-based management system for handling flight ticket booking, passenger records, ticket information, and basic airline management operations.</p>
+      <p><b>Tech Stack:</b> Java, OOP, Database Concepts</p>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Analytics
